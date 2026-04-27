@@ -1,0 +1,11 @@
+fastapi==0.115.6
+uvicorn==0.34.0
+streamlit==1.41.1
+python-dotenv==1.0.1
+pydantic==2.10.5
+requests==2.32.3
+sqlalchemy==2.0.37
+chromadb==0.6.3
+google-generativeai==0.8.3
+pypdf==5.1.0
+pytest==8.3.4

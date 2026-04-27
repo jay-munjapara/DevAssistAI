@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+chromadb_store/
+devassist.db
+.DS_Store
+.pytest_cache/
