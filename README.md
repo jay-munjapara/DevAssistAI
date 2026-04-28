@@ -131,14 +131,7 @@ http://localhost:8501
 | `/rag/query` | POST | Ask questions from uploaded documents |
 | `/logs` | GET | View query logs and latency |
 
-## Resume Bullet
-
-```text
-DevAssistAI | FastAPI, Gemini API, LangChain, ChromaDB, SQLite, Streamlit, Python, AWS | GitHub
-
-◦ Built a GenAI-powered developer assistant using Gemini API, LangChain, and RAG to generate code, debug errors, explain snippets, and answer document-based queries, with ChromaDB semantic retrieval, prompt engineering, SQLite logging, latency monitoring, and AWS-ready FastAPI deployment.
-```
-
+<!--
 ## Future Improvements
 
 - Add authentication with JWT
@@ -146,3 +139,4 @@ DevAssistAI | FastAPI, Gemini API, LangChain, ChromaDB, SQLite, Streamlit, Pytho
 - Add prompt comparison playground
 - Add unit tests for all endpoints
 - Add Dockerfile and GitHub Actions CI/CD
+-->
