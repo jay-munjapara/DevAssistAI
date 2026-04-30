@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/jay-munjapara/DevAssistAI">
+    <img src="https://cdn.prod.website-files.com/68888b5f6eac13568357c4bc/69e1b17a81ccbe3c66c23d06_69e1b0cff9e41a35c570536f_best-knowledge-base-software-saas-2026-hero.png" alt="Logo">
+  </a>
+</p>
+
 # DevAssistAI
 
 DevAssistAI is a GenAI-powered developer assistant that supports code generation, debugging, code explanation, and document-based Q&A using RAG.
